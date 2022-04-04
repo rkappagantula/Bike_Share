@@ -15,7 +15,13 @@ The goal is to look at citi bike data in New York City on the month of august to
   - Tableau Public
 
 ## Results
+ Refer to Tableau Story - https://public.tableau.com/authoring/CitiBike_16490907075740/Story1
 
+Checkout Time by Users
+![Checkout Times for Users](https://user-images.githubusercontent.com/96051648/161610330-178ca1ba-e5d0-4ae5-8cea-01375db1097a.png)
+
+User Trips by Gender
+![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/96051648/161610386-fb19d356-b536-44c5-bd9a-67bd0f3ab9b0.png)
 
 This presentation was based on New York City but could be applied, with the necessary attention, to other cities in the World. 
 ![Story 1 (1)](https://user-images.githubusercontent.com/96051648/161608372-e01b8c89-3cb4-48e9-8fac-9e1a847a5b81.png)
