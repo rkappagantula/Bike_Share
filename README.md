@@ -38,11 +38,6 @@ Moreover, this heatmap supports this theory as it displays how the most heated a
 
 ![Story 1 (8)](https://user-images.githubusercontent.com/96051648/161616748-46fa1763-87b1-405a-a8f3-06ba897c77ac.png)
 
-
-*User Trips Dashboard*,  80% of the users are subscribers, meanwhile the others are just customers who sometimes use the bikes. This means that user retention is pretty high and wherever the bikesharing business is created we should strive to give incentives for customers to become subscribers. More specifically, male subscribers are the most popular users followed by female subscribers.
-
-![Story 1 (9)](https://user-images.githubusercontent.com/96051648/161616844-94e27593-93ab-4e5b-b45d-dbe11318b219.png)
-
 Trip duration by gender. All genders usually use the bikes for 5 minutes approximately. After 5 minutes, the trip durations start to slope down. Almost nobody uses the bikes after 45 minutes, where the slope starts to decline by a lot. 
 ![Story 1 (9)](https://user-images.githubusercontent.com/96051648/161617413-0b86017a-7fd2-4372-bf03-f5059d7fc7fa.png)
 
@@ -53,6 +48,5 @@ Gender breakdown, which shows that the majority of customers are male with appro
 ## Summary
 
 To analyze the citi bike business proposition, created a visualization in which we observed rides by age.
-![Rides by Age](https://user-images.githubusercontent.com/96051648/161609243-7137ed70-e97d-404d-90e6-c54cfbee91f4.png)
-
+![Rides by Age (1)](https://user-images.githubusercontent.com/96051648/161617717-3fdc5679-21f9-4050-a482-61775ed0cefd.png)
 
