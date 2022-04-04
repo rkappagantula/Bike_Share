@@ -15,7 +15,7 @@ The goal is to look at citi bike data in New York City on the month of august to
   - Tableau Public
 
 ## Results
- Refer to Tableau Story - https://public.tableau.com/authoring/CitiBike_16490907075740/Story1
+ Refer to Tableau Story - https://public.tableau.com/app/profile/ravi7215/viz/NYC_CitiBike_Sharing/Story1?publish=yes
 
 Checkout Time by Users
 ![Checkout Times for Users](https://user-images.githubusercontent.com/96051648/161610330-178ca1ba-e5d0-4ae5-8cea-01375db1097a.png)
@@ -24,9 +24,11 @@ User Trips by Gender
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/96051648/161610386-fb19d356-b536-44c5-bd9a-67bd0f3ab9b0.png)
 
 This presentation was based on New York City but could be applied, with the necessary attention, to other cities in the World. 
-![Story 1 (1)](https://user-images.githubusercontent.com/96051648/161608372-e01b8c89-3cb4-48e9-8fac-9e1a847a5b81.png)
+
+![Story 1 (6)](https://user-images.githubusercontent.com/96051648/161616128-329e52fa-d630-451c-8e28-88a08872f1e0.png)
 
 In August, which is the most profitable month of the year , the most popular hours in which people used the bikes were 5 and 6 pm during the afternoon and 8 am during the morning. This uncovers the trend that people usually use it to mobilize to and from their jobs as the peak hours are before and after work time. 
+
 ![Story 1 (2)](https://user-images.githubusercontent.com/96051648/161608472-78c3e063-34c3-45a3-94a4-65746f549524.png)
 
 
